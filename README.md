@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋+My+name+is+Garland+Key;I+help+people+make+awesome+full+stack+web+applications!)](https://git.io/typing-svg)
 <!--
 **GarlandKey/GarlandKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
