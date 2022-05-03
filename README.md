@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://www.codewars.com/users/garlandkey/badges/large "Codewars Profile Badge")
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Garland's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=GarlandKey&hide_border=true&theme=redical)
@@ -25,3 +23,5 @@ Here are some ideas to get you started:
 ![Garland's github stats](https://github-readme-stats.vercel.app/api?username=GarlandKey&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GarlandKey&theme=radical&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarlandKey"></img>
+
+![alt text](https://www.codewars.com/users/garlandkey/badges/large "Codewars Profile Badge")
