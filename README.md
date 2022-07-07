@@ -2,10 +2,10 @@
 
 ### Let's Connect!
 
-<a href="https://linkedin.com/in/garlandkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garlandkey" height="30" /></a> <a href="https://twitter.com/garland_key" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garland_key" height="30" /></a>
+<a href="https://linkedin.com/in/garlandkey" target="blank"><img align="center" src="https://github.com/GarlandKey/creative-content/blob/main/linkedin.svg" alt="garlandkey" height="30" /></a> <a href="https://twitter.com/garland_key" target="blank"><img align="center" src="https://github.com/GarlandKey/creative-content/blob/main/twitter.svg" alt="garland_key" height="30" /></a>
 
 
-## Languages and Tools:
+## Skills
 
 ### Languages
 
