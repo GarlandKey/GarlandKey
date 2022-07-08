@@ -1,4 +1,4 @@
-<a href="https://garlandkey.com" target="blank"><img align="center" src="https://github.com/GarlandKey/creative-content/blob/main/banner.webp" alt="Garland Key, Full Stack Software Engineer" /></a>
+<a href="https://garlandkey.com" target="blank"><img align="center" src="https://github.com/GarlandKey/creative-content/blob/main/banner11.webp" alt="Garland Key, Full Stack Software Engineer" /></a>
 <a href="https://garlandkey.com" target="blank">Check out my website!</a>
 
 <details>
