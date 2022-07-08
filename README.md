@@ -11,7 +11,7 @@ I'm a full stack software engineer with an artistic side! 🦄
 
 I have a passion for cryptography, decenctralization and privacy.
 
-When I'm afk, I like making things. You might find me at my local <a href="https://archreactor.org/" target="blank">makerspace</a>. I'm forever building new gadgets, learning new technologies and using that knowledge to build art, gadgets, software or structures.
+When I'm afk, I like making things. You might find me at my local <a href="https://archreactor.org/" target="blank">makerspace</a>. I'm forever learning new technologies and using that knowledge to build art, gadgets, software or structures.
 
 </blockquote>
   
