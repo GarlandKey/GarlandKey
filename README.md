@@ -1,4 +1,4 @@
-<a href="https://garlandkey.com" target="blank"><img align="center" src="https://github.com/GarlandKey/creative-content/blob/main/banner11.webp" alt="Garland Key, Full Stack Software Engineer" /></a>
+<a href="https://garlandkey.com" target="blank"><img align="center" src="https://github.com/GarlandKey/creative-content/blob/main/github_header.webp" alt="Garland Key, Full Stack Software Engineer" /></a>
 
 <h1 align="left">👋 Hi there!</h1>
 <h3 align="left">I'm known for being curious, creative, and collaborative. As a generalist, I excel at learning how things work, problem-solving, and adapting to new challenges.</h3>
