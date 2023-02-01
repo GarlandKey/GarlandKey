@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [hashnode](https://hashnode.garlandkey.com/)
 
-- 📄 Check out my resume [here](https://garlandkey.com/garland.key.full.stack.resume.pdf)
+- 📄 Check out my resume [here](https://drive.google.com/file/d/1OaL-55VUxTDgdSLB1P1L053rivD7n2ov/view?usp=sharing)
 
 <b>🛠️ Languages & Tools</b>
 <p>I turn code into art! Here are some of the tools that I use to work my magic.</p>
