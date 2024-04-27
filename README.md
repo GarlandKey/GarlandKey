@@ -1,33 +1,74 @@
 <a href="https://garlandkey.com" target="blank"><img align="center" src="https://github.com/GarlandKey/creative-content/blob/main/github_header.webp" alt="Garland Key, Full Stack Software Engineer" /></a>
 
-<h1 align="left">👋 Hi there!</h1>
-<h3 align="left">I'm known for being curious, creative, and collaborative. As a generalist, I excel at learning how things work, problem-solving, and adapting to new challenges.</h3>
+#### 👋 Hi there!
 
-- 🔭 I’m currently working on [ADAcomp](https://github.com/GarlandKey/ADAcomp)
+Known for being curious, creative, and collaborative. As a generalist, I excel at learning how things work, problem-solving, and adapting to new challenges quickly. I have a proven history of creating and implementing successful frontend and full-stack web applications.
 
-- 👯 I’m looking to collaborate on [thinkBig](https://github.com/100Devs-ADHD/thinkBig)
+#### 🛠️ Languages & Tools
 
-- 📝 I regularly write articles on [hashnode](https://hashnode.garlandkey.com/)
+Here are the tools that I use day-to-day to work my magic.
 
-- 📄 Check out my resume [here](https://drive.google.com/file/d/1EaHK4TTzTzJH8--zjSSzmHstqgZCIpuu/view?usp=sharing)
+##### Cloud and Hosting Services
 
-<b>🛠️ Languages & Tools</b>
-<p>I turn code into art! Here are some of the tools that I use to work my magic.</p>
-<p align="right" width="350">
-    
+* [AWS](https://aws.amazon.com/what-is-aws/)
+* [Firebase](https://firebase.google.com/)
+* [Netlify](https://www.netlify.com/about/)
+
+##### Database Technologies
+
+* [DynamoDB](https://aws.amazon.com/dynamodb/)
+* [Firebase Realtime Database](https://firebase.google.com/docs/database/)
+* [MongoDB](https://www.mongodb.com/)
+* [PostgreSQL](https://www.postgresql.org/)
+
+##### Programming Languages
+
+* [C]()
+* [CSS3](https://www.w3.org/Style/CSS/)
+* [HTML5](https://www.w3.org/html/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Python](https://www.python.org/)
+
+##### Web Development Frameworks and Libraries
+
+* [NextJS](https://nextjs.org/)
+* [NodeJS](https://nodejs.org)
+* [ReactJS](https://reactnative.dev/)
+* [React Native](https://reactnative.dev/)
+* [TailwindCSS](https://tailwindcss.com/)
+* [Vite](https://vitejs.dev/)
+
+##### DevOps and Version Control
+
+* [Bash](https://www.gnu.org/software/bash/)
+* [Docker](https://www.docker.com/)
+* [Git](https://git-scm.com/)
+* [GitHub](https://github.com)
+* [GitLab](https://gitlab.com)
+* [Linux](https://www.linux.org/)
+
+##### API and Testing Tools
+
+* [Jest](https://jestjs.io/)
+* [Postman](https://www.postman.com/)
+
+##### Design and Creative Tools
+
+* [Blender](https://www.blender.org/)
+* [Figma](https://www.figma.com/)
+* [Illustrator](https://www.adobe.com/products/illustrator.html)
+* [Inkscape](https://inkscape.org/)
+* [Krita](https://krita.org/)
+* [Photoshop](https://www.adobe.com/products/photoshop.html)
+
 | Category | Skills |
 |-----|-------|
-| Languages | <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/c.svg" alt="C" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/javascript.svg" alt="javascript" height="40"/></a> |
-| Frontend | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/css.svg" alt="css3" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/html.svg" alt="html5" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/react.svg" alt="react" height="40"/></a> |
-| Backend | <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/GarlandKey/creative-content/blob/main/nodejs.svg" alt="nodejs" height="40"/></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GarlandKey/creative-content/blob/main/express.svg" alt="expressjs" height="40"/></a> |
-| Database | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/mongodb.svg" alt="mongodb" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/postgresql.svg" alt="postgresql" height="40"/></a> |
-| DevOps | <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/bash.svg" alt="bash" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/docker.svg" alt="docker" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/git.svg" alt="git" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/linux.svg" alt="linux" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/postman.svg" alt="postman" height="40"/></a> |
+| Cloud | [AWS](https://aws.amazon.com/what-is-aws/) [Firebase](https://firebase.google.com/) [Netlify](https://www.netlify.com/about/) |
 | Design | <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/blender.svg" alt="blender" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/figma.svg" alt="figma" height="40"/></a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/ai.svg" alt="illustrator" height="40"/></a> <a href="https://inkscape.org" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/inkscape.svg" alt="inkscape" height="40"/></a> <a href="https://krita.org" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/krita.svg" alt="krita" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/ps.svg" alt="photoshop" height="40"/></a> |
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/garland_key" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garland_key" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/garlandkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garlandkey" height="30" width="40" /></a>
-<a href="https://hashnode.garlandkey.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.garlandkey.com/rss.xml" height="30" width="40" /></a>
-</p>
+| Database | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/mongodb.svg" alt="mongodb" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/postgresql.svg" alt="postgresql" height="40"/></a> |
+| DevOps | <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/bash.svg" alt="bash" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/docker.svg" alt="docker" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/git.svg" alt="git" height="40"/></a> [GitHub](https://github.com) [GitLab](https://gitlab.com) <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/linux.svg" alt="linux" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/GarlandKey/creative-content/blob/main/postman.svg" alt="postman" height="40"/></a> |
+| Frameworks | [<img src="https://github.com/GarlandKey/creative-content/blob/main/express.svg" alt="expressjs" height="40"/>](https://expressjs.com/) [Nextjs](https://nextjs.org/) [React Native](https://reactnative.dev/) [TailwindCSS](https://tailwindcss.com/) |
+| Languages | [<img src="https://github.com/GarlandKey/creative-content/blob/main/c.svg" alt="C" height="40">](https://www.cprogramming.com/) [<img src="https://github.com/GarlandKey/creative-content/blob/main/css.svg" alt="css3" height="40"/>](https://www.w3.org/Style/CSS/) [<img src="https://github.com/GarlandKey/creative-content/blob/main/html.svg" alt="html5" height="40"/>](https://www.w3.org/html/) [<img src="https://github.com/GarlandKey/creative-content/blob/main/javascript.svg" alt="javascript" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [Python](https://www.python.org/) |
+| Libraries | [<img src="https://github.com/GarlandKey/creative-content/blob/main/react.svg" alt="react" height="40"/>](https://reactjs.org/) | 
+| Runtime | [<img src="https://github.com/GarlandKey/creative-content/blob/main/nodejs.svg" alt="nodejs" height="40"/>](https://nodejs.org) |
+| Tools | [<img src="https://github.com/GarlandKey/creative-content/blob/main/postman.svg" alt="postman" height="40"/>](https://postman.com) [Vite](https://vitejs.dev/) |
