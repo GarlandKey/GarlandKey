@@ -28,6 +28,7 @@ Here are the tools that I use day-to-day to work my magic.
 * [HTML5](https://www.w3.org/html/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Python](https://www.python.org/)
+* [TypeScript](https://www.typescriptlang.org/)
 
 ##### Web Development Frameworks and Libraries
 
