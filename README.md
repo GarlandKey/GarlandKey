@@ -2,7 +2,7 @@
 
 👋 Hi there!
 
-Known for being curious, creative, and collaborative. As a generalist, I excel at learning how things work, problem-solving, and adapting to new challenges quickly. I have a proven history of creating and implementing successful front-end designs and full-stack web applications.
+Known for being curious, creative, and collaborative. As a generalist, I excel at learning how things work, problem-solving, and adapting to new challenges quickly. I am a software engineer who designs, maintains and updates web applications by trade. During my freetime, I mentor students for #100 Devs, I create video games and contribute to free and open source projects. 
 
 #### 🏗️ What I'm Currently Working On
 
@@ -16,41 +16,31 @@ A free and open source educational web application that helps online study commu
 
 #### 🛠️ Languages & Tools
 
-Here are the tools that I use day-to-day to work my magic.
+Here are some of the tools that I use day-to-day to work my magic.
 
-##### Cloud and Hosting Services
+##### Cloud
 
 * [AWS](https://aws.amazon.com/what-is-aws/)
 * [Firebase](https://firebase.google.com/)
 * [Netlify](https://www.netlify.com/about/)
 
-##### Database Technologies
+##### Database
 
 * [DynamoDB](https://aws.amazon.com/dynamodb/)
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/)
 * [MongoDB](https://www.mongodb.com/)
 * [PostgreSQL](https://www.postgresql.org/)
 
-##### Programming Languages
+##### Design
 
-* [C++](https://gcc.gnu.org/projects/cxx-status.html)
-* [CSS3](https://www.w3.org/Style/CSS/)
-* [HTML5](https://www.w3.org/html/)
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Python](https://www.python.org/)
-* [TypeScript](https://www.typescriptlang.org/)
+* [Blender](https://www.blender.org/)
+* [Figma](https://www.figma.com/)
+* [Illustrator](https://www.adobe.com/products/illustrator.html)
+* [Inkscape](https://inkscape.org/)
+* [Krita](https://krita.org/)
+* [Photoshop](https://www.adobe.com/products/photoshop.html)
 
-##### Web Development Frameworks, Libraries and Runtimes
-
-* [ExpressJS](https://expressjs.com/)
-* [NextJS](https://nextjs.org/)
-* [NodeJS](https://nodejs.org)
-* [ReactJS](https://reactnative.dev/)
-* [React Native](https://reactnative.dev/)
-* [TailwindCSS](https://tailwindcss.com/)
-* [Vite](https://vitejs.dev/)
-
-##### DevOps and Version Control
+##### DevOps
 
 * [Bash](https://www.gnu.org/software/bash/)
 * [Docker](https://www.docker.com/)
@@ -59,16 +49,26 @@ Here are the tools that I use day-to-day to work my magic.
 * [GitLab](https://gitlab.com)
 * [Linux](https://www.linux.org/)
 
-##### API and Testing Tools
+##### Languages
+
+* [C++](https://gcc.gnu.org/projects/cxx-status.html)
+* [CSS3](https://www.w3.org/Style/CSS/)
+* [HTML5](https://www.w3.org/html/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Python](https://www.python.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+
+##### Testing
 
 * [Jest](https://jestjs.io/)
 * [Postman](https://www.postman.com/)
 
-##### Design and Creative Tools
+##### Web Development
 
-* [Blender](https://www.blender.org/)
-* [Figma](https://www.figma.com/)
-* [Illustrator](https://www.adobe.com/products/illustrator.html)
-* [Inkscape](https://inkscape.org/)
-* [Krita](https://krita.org/)
-* [Photoshop](https://www.adobe.com/products/photoshop.html)
+* [ExpressJS](https://expressjs.com/)
+* [NextJS](https://nextjs.org/)
+* [NodeJS](https://nodejs.org)
+* [ReactJS](https://reactnative.dev/)
+* [React Native](https://reactnative.dev/)
+* [TailwindCSS](https://tailwindcss.com/)
+* [Vite](https://vitejs.dev/)
