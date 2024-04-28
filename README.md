@@ -1,8 +1,18 @@
 <a href="https://garlandkey.com" target="blank"><img align="center" src="https://github.com/GarlandKey/creative-content/blob/main/github_header.webp" alt="Garland Key, Full Stack Software Engineer" /></a>
 
-#### 👋 Hi there!
+👋 Hi there!
 
-Known for being curious, creative, and collaborative. As a generalist, I excel at learning how things work, problem-solving, and adapting to new challenges quickly. I have a proven history of creating and implementing successful frontend and full-stack web applications.
+Known for being curious, creative, and collaborative. As a generalist, I excel at learning how things work, problem-solving, and adapting to new challenges quickly. I have a proven history of creating and implementing successful front-end designs and full-stack web applications.
+
+#### 🏗️ What I'm Currently Working On
+
+##### Bad Gateway
+
+A cross-platform top-down story-driven action-adventure indie game set in a near-future cyberpunk world. I am using Blender and [Godot](https://godotengine.org/) to create this magnum opus.
+
+##### Community Taught
+
+A free and open source educational web application that helps online study communities create and track community built sylibi. This is a project created and maintained by [Laura Abro](https://github.com/labrocadabro).
 
 #### 🛠️ Languages & Tools
 
@@ -23,15 +33,16 @@ Here are the tools that I use day-to-day to work my magic.
 
 ##### Programming Languages
 
-* [C]()
+* [C++](https://gcc.gnu.org/projects/cxx-status.html)
 * [CSS3](https://www.w3.org/Style/CSS/)
 * [HTML5](https://www.w3.org/html/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Python](https://www.python.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 
-##### Web Development Frameworks and Libraries
+##### Web Development Frameworks, Libraries and Runtimes
 
+* [ExpressJS](https://expressjs.com/)
 * [NextJS](https://nextjs.org/)
 * [NodeJS](https://nodejs.org)
 * [ReactJS](https://reactnative.dev/)
