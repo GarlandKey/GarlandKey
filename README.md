@@ -58,6 +58,11 @@ Here are some of the tools that I use day-to-day to work my magic.
 * [Python](https://www.python.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 
+##### Mobile Development
+
+* [Android Studio](https://developer.android.com/studio)
+* [React Native](https://reactnative.dev/)
+
 ##### Testing
 
 * [Jest](https://jestjs.io/)
@@ -69,6 +74,5 @@ Here are some of the tools that I use day-to-day to work my magic.
 * [NextJS](https://nextjs.org/)
 * [NodeJS](https://nodejs.org)
 * [ReactJS](https://reactnative.dev/)
-* [React Native](https://reactnative.dev/)
 * [TailwindCSS](https://tailwindcss.com/)
 * [Vite](https://vitejs.dev/)
