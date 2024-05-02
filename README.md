@@ -57,6 +57,7 @@ Here are some of the tools that I use day-to-day to work my magic.
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Python](https://www.python.org/)
 * [TypeScript](https://www.typescriptlang.org/)
+* [YAML](https://yaml.org/)
 
 ##### Mobile Development
 
