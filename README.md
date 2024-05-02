@@ -42,7 +42,6 @@ Here are some of the tools that I use day-to-day to work my magic.
 
 ##### DevOps
 
-* [Bash](https://www.gnu.org/software/bash/)
 * [Docker](https://www.docker.com/)
 * [Git](https://git-scm.com/)
 * [GitHub](https://github.com)
@@ -51,6 +50,7 @@ Here are some of the tools that I use day-to-day to work my magic.
 
 ##### Languages
 
+* [Bash](https://www.gnu.org/software/bash/)
 * [C++](https://gcc.gnu.org/projects/cxx-status.html)
 * [CSS3](https://www.w3.org/Style/CSS/)
 * [HTML5](https://www.w3.org/html/)
